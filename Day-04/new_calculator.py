@@ -22,5 +22,3 @@ addition()
 substraction()
 multiplication()
 devision()
-
-
