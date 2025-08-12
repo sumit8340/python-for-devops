@@ -22,7 +22,10 @@ word = ["Hello", "World"]
 print(word[0] +" "+ word[1])
 
 
+#----------#
 
+random_list = [1, 2, 3, "ramu", "abhi", 7.5]
+print(random_list)
 
 
 
