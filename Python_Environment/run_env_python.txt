@@ -1,0 +1,5 @@
+# Run to work on python environment to use pip
+
+
+source venv/bin/activate
+

@@ -1,0 +1,11 @@
+1--> pip install virtualenv
+
+2--> python -m venv project-abc  # -m means  module and project create with name of "project-abc"
+
+3--> source project-abc/bin/activate    # This command help us to enter in "project-abc" workspace
+
+4--> deactivate   # This command deactivate the current working space
+
+
+
+
