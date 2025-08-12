@@ -1,0 +1,6 @@
+1-- export password="abcdef" # first we create env variable in terminal this used for password confidential
+
+2-- import os # in the script we call lib first
+
+3-- print(os.getenv("password"))
+
